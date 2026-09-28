@@ -1,0 +1,16 @@
+# Operating system clutter
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Exported progress backups (personal data)
+*backup*.json
+slf-*.json
+
+# Anything temporary
+tmp/
+*.log
